@@ -1,0 +1,10 @@
+body, input, textarea {
+    font-family: "Helvetica Neue",Arial,Helvetica,"Nimbus Sans L",sans-serif;
+}
+ul {
+list-style-image:url("punto.jpg");
+list-style-type:square;
+}
+li {
+	margin: 0 0 5px 0;
+}
